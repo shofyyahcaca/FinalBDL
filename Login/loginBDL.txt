@@ -1,0 +1,6 @@
+INSERT INTO public.login(
+	username, password)
+	VALUES 
+	('admin1', 'petugas1'),
+	('admin2', 'petugas2'),
+	('admin3', 'petugas3');
